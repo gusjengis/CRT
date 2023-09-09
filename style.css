@@ -1,0 +1,8 @@
+body::-webkit-scrollbar {
+    display: none;
+  }
+
+.fileInput {
+    width: 100px;
+    float: center;
+}
